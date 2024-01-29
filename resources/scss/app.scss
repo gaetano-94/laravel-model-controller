@@ -3,3 +3,16 @@
 
 //Includere l'immagine come background-image
 // background-image: url("../img/logo.jpg");
+
+body {
+    background-color: lightblue;
+
+    h1 {
+        color: red;
+    }
+
+    .card {
+        background-color: lightgreen;
+        border: 2px solid yellow;
+    }
+}
